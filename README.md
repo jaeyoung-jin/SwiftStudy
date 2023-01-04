@@ -12,5 +12,6 @@ https://developer.apple.com/documentation/swift/optional
 https://jerry-bakery.tistory.com/entry/iOS-Optional%EC%98%B5%EC%85%94%EB%84%90-Optional-Binding%EC%98%B5%EC%85%94%EB%84%90-%EB%B0%94%EC%9D%B8%EB%94%A9-Optional-Chaining%EC%98%B5%EC%85%94%EB%84%90-%EC%B2%B4%EC%9D%B4%EB%8B%9D
 <br>
 <br>
-클로저(Closure)<br><br>
+<br>
+클로저(Closure)<br>
 https://jusung.gitbook.io/the-swift-language-guide/language-guide/07-closures
