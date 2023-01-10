@@ -18,4 +18,5 @@ https://jusung.gitbook.io/the-swift-language-guide/language-guide/07-closures
 <br>
 <br>
 ARC<br>
-https://shark-sea.kr/entry/iOS-ARC-strong-weak-unowned
+https://shark-sea.kr/entry/iOS-ARC-strong-weak-unowned<br><br>
+https://ugly-developer.tistory.com/5
