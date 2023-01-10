@@ -15,3 +15,7 @@ https://jerry-bakery.tistory.com/entry/iOS-Optional%EC%98%B5%EC%85%94%EB%84%90-O
 <br>
 클로저(Closure)<br>
 https://jusung.gitbook.io/the-swift-language-guide/language-guide/07-closures
+<br>
+<br>
+ARC<br>
+https://shark-sea.kr/entry/iOS-ARC-strong-weak-unowned
