@@ -5,8 +5,8 @@
 <br>
 
 The Swift Language Guide(한국어)<br>
-https://jusung.gitbook.io/the-swift-language-guide/
-<br>
+https://jusung.gitbook.io/the-swift-language-guide/ <br><br>
+
 옵셔널(Optional)<br><br>
 애플 개발자 문서<br>
 https://developer.apple.com/documentation/swift/optional
